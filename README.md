@@ -2,7 +2,7 @@
     
 # Puppeteer Boilerplate
     
-Puppeteer end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Cucumber](https://github.com/cucumber/cucumber-js), [Chai](https://www.chaijs.com) and Assert.
+Puppeteer end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Cucumber](https://github.com/cucumber/cucumber-js), [Chai](https://www.chaijs.com) and [Commonjs](https://www.chaijs.com/api/assert/).
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/puppeteer-commonjs-cucumber-chai-assert.git
